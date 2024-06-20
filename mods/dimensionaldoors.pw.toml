@@ -1,13 +1,13 @@
-name = "Dimensional Doors"
-filename = "dimdoors-5.3.3-fabric.jar"
+name = "DimensionalDoors"
+filename = "dimdoors-5.3.5-1.20.1-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/b8Q0BxnV/versions/EoyrZkoH/dimdoors-5.3.3-fabric.jar"
 hash-format = "sha1"
-hash = "8c3865423033d6e485746de6c70f719470dbade9"
+hash = "a41b7bb9b390246ba857ab471d73cf00d1ec4be6"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "b8Q0BxnV"
-version = "EoyrZkoH"
+[update.curseforge]
+file-id = 5375111
+project-id = 284876
