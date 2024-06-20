@@ -156,6 +156,11 @@ hash = "96e3771cd09bb4a808d1c1fcb5a050efdc2ffb4efe7b584407ed54c46c0388d9"
 metafile = true
 
 [[files]]
+file = "mods/trinkets.pw.toml"
+hash = "07619668821f2aad9dbd40084ad80f25595d8715a9ef204a4a9629225729a7d9"
+metafile = true
+
+[[files]]
 file = "mods/windchimes.pw.toml"
 hash = "36f88eeb3fa5462616161820cace08473a985dbc243fbc85f1deed553e25efb6"
 metafile = true
