@@ -13,4 +13,4 @@ mod-id = "l6YH9Als"
 version = "XGW2fviP"
 
 [option]
-optional = "true"
+optional = true

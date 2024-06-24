@@ -11,8 +11,18 @@ hash = "0cbcd58c49decc0ecbccd330fcc8326e3b8769e22e1740e229f09541acf3df7f"
 metafile = true
 
 [[files]]
+file = "mods/bclib.pw.toml"
+hash = "d71225c33f2287ca8c0f61483a8d9da35c80a69cb14f252dceaf0e504435bb7f"
+metafile = true
+
+[[files]]
 file = "mods/bedspreads.pw.toml"
 hash = "af0c7ee46afc4a5dcce1d6d01ef668d18d1dbe5560f5d03e2608f55cc0163b33"
+metafile = true
+
+[[files]]
+file = "mods/betterend.pw.toml"
+hash = "bd5f853537d50e0b156f5a5cb4ca557771aa0828ccf46b22b31a3aa549d615ed"
 metafile = true
 
 [[files]]
@@ -51,8 +61,8 @@ hash = "44c45b4769e2a419cb455b02fdb29fb763c09ec4cde3e4142fc0ab460c39fd35"
 metafile = true
 
 [[files]]
-file = "mods/dimensionaldoors.pw.toml"
-hash = "9a550f7a6e5ad884b4ddd6d5abd912ee5ae5da688aac19041f99de43a6ce2b57"
+file = "mods/croptopia.pw.toml"
+hash = "0bcd1969e90045a3e33769b574182f71a1a80a9f13140eb20558799b7d0782e6"
 metafile = true
 
 [[files]]
@@ -61,8 +71,18 @@ hash = "6a4afd7b42387477795e73b17b8963ea313ce6f8a960343a2579ff0b41544beb"
 metafile = true
 
 [[files]]
+file = "mods/enderman-overhaul.pw.toml"
+hash = "889e0869ad130b13a482c5fd945ed2a5b35522e9165d294946183692279a96dc"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "9f499eff7ddb9eeab719f19808cbcf41f2b77d06ebf946f157cf7b5f52f64e70"
+metafile = true
+
+[[files]]
+file = "mods/epherolib.pw.toml"
+hash = "9652798b0045301905be00b4bff8c4ded2e8e18c60bcc0bee7521d78f452d7ad"
 metafile = true
 
 [[files]]
@@ -87,7 +107,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "4375a78dc2331d06b922e9011969e259e23947bb57088871d30b26d3b2ed37b6"
+hash = "f28b7f16e0b89f86a625691db438fd69c1029f0fa1aea46bd415036a423a2880"
 metafile = true
 
 [[files]]
@@ -141,6 +161,11 @@ hash = "4cd171d3f5f3e1d2948cb1b0062e742a5e85110c9e9a668f9aed5b0cebcb9c97"
 metafile = true
 
 [[files]]
+file = "mods/patchouli.pw.toml"
+hash = "89e5cab6f92dbcfd6c2c058fc9381869fde193a431c284dbb828833e881cd344"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "0f9916dcded3aac68d56113e9617bbe3db5ec9036bd9bba784bc40a961b0c9f0"
 metafile = true
@@ -157,7 +182,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
-hash = "d812e151028b7231d0e6bbd28a7b03a2b0e912c7052c0565e2f47e740717c298"
+hash = "8ac138bcb2e461b627f0dd7c681a07ac8396e65f8211c37e639acb4fed86754b"
 metafile = true
 
 [[files]]
@@ -173,6 +198,11 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "07619668821f2aad9dbd40084ad80f25595d8715a9ef204a4a9629225729a7d9"
+metafile = true
+
+[[files]]
+file = "mods/twigs.pw.toml"
+hash = "5eff195b29b04ef06e84dc37cf1c193b70ae90b365c2c5622b76397fbdda9f45"
 metafile = true
 
 [[files]]

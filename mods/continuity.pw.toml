@@ -13,4 +13,4 @@ mod-id = "1IjD5062"
 version = "84Zs6tNo"
 
 [option]
-optional = "true"
+optional = true
